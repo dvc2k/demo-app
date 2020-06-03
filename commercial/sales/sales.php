@@ -9,6 +9,7 @@ include_once APP_ROOT."/app/core/utils.php";
 
 echo f_html_header('Sales MTD');
 echo f_app_mainmenu();
+echo '<h1>Sales Last MTD<h1>';
 echo '<h1>Sales MTD<h1>';
 echo f_html_footer();
 ?>
