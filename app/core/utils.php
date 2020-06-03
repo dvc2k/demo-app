@@ -25,8 +25,8 @@ return '
 
   
 function f_app_mainmenu(){
-    return '<div style="margin:1px; padding:5px; background-color: cyan;">'
-        .'| <a href="'.APP_ROOT.'/">Pagina Inicio </a> '
+    return '<div style="margin:1px; padding:5px; background-color: yellow;">'
+        .'| <a href="'.APP_ROOT.'/">MiApp</a> '
         .'| <a href="'.APP_ROOT.'/commercial/catalog/">Catalogos</a> '
         .'| <a href="'.APP_ROOT.'/commercial/sales/">Ventas</a> '
         .'| <a href="'.APP_ROOT.'/commercial/subscribe/">Afiliacion</a> '
