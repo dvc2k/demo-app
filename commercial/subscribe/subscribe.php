@@ -13,6 +13,7 @@ echo '<h1>Sports Subscription</h1>';
 echo '<ul>'
     .'<li>Subscribirse por Email</li>'
     .'<li>Subscribirse por App</li>'
+    .'<li>Aqui estuvo Diego</li>'
     .'</ul>';
 echo f_html_footer();
 ?>
