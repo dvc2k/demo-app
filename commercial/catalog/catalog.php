@@ -11,9 +11,10 @@ echo f_html_header('Product 1');
 echo f_app_mainmenu();
 echo '<h1>Catalog of Products</h1>';
 echo '<ul> '
-    .'<li>Bici de Montañera</li>'
-    .'<li>Bici de Carrera</li>'
-    .'<li>Bici Electrica</li>'
+    .'<li>Moto Honda</li>'
+    .'<li>Moto Ninja</li>'
+    .'<li>Moto Harley Davidson</li>'
+    .'<li>Moto Kawasaki</li>'
     .'</ul>';
 echo f_html_footer();
 ?>
