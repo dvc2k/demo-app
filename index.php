@@ -18,5 +18,6 @@ include_once APP_ROOT."/app/core/utils.php";
     <div>
         Wellcome!    
     </div>
+    <strong>Aqui estuvo David!</strong>
 </body>
 </html>

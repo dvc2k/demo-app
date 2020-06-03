@@ -5,7 +5,7 @@ if (!defined('APP_ROOT')){
     define ('IMG_ROOT','../../images');
 } 
 include_once APP_ROOT."/app/core/variables.php";
-include_once APP_ROOT."/app/core/utils.php";
+include_once APP_ROOT."/app/core/utils.php"; 
 
 echo f_html_header('Sales MTD');
 echo f_app_mainmenu();
