@@ -25,13 +25,14 @@ return '
 
   
 function f_app_mainmenu(){
-    return '<div style="margin:1px; padding:5px; background-color: yellow;">'
+    return '<div style="margin:1px; padding:5px; background-color: red;">'
         .'| <a href="'.APP_ROOT.'/">MiApp</a> '
         .'| <a href="'.APP_ROOT.'/commercial/catalog/">Catalogos</a> '
         .'| <a href="'.APP_ROOT.'/commercial/sales/">Ventas</a> '
         .'| <a href="'.APP_ROOT.'/commercial/subscribe/">Afiliacion</a> '
         .'| <a href="'.APP_ROOT.'/doc/help/">Ayuda</a> '
         .'| <a href="'.APP_ROOT.'/doc/manual/">Manuales Tecnicos</a> '
+        .'| <a href="'.APP_ROOT.'/doc/manual/">Manual Operativo</a> '
         .'|'
         .'</div>';
 }
