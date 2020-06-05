@@ -17,7 +17,9 @@ include_once APP_ROOT."/app/core/utils.php";
     <h1>Home Page v2</h1>
     <div>
         Wellcome!    
-        Aqui estuvo Diego*******
+        Aqui estuvo Diego*******<br>
+        y tambien aqui estuvo David!
+
     </div>
     <strong>Aqui estuvo David!</strong>
 </body>
