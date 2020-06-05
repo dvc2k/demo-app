@@ -14,12 +14,12 @@ include_once APP_ROOT."/app/core/utils.php";
 </head>
 <body>
     <?php echo f_app_mainmenu(); ?>    
-    <h1>Home Page v2</h1>
+    <h1>Deportes Extermos - Bicimontañas</h1>
     <div>
         Wellcome!    
         Aqui estuvo Diego*******<br>
         y tambien aqui estuvo David!
-
+       
     </div>
     <strong>Aqui estuvo David!</strong>
 	<br>
