@@ -22,5 +22,7 @@ include_once APP_ROOT."/app/core/utils.php";
 
     </div>
     <strong>Aqui estuvo David!</strong>
+	<br>
+	<strong>y tambien estuvo Vale!</strong>
 </body>
 </html>
